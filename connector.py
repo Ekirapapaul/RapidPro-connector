@@ -1,7 +1,7 @@
 # Main connector file
 import time
 import schedule
-from constants import KICKOFF_TYPE_ID, ENROLLMENT_TYPE_ID, APPOINTMENT_REMINDER_TYPE_ID
+from constants import KICKOFF_TYPE_ID, ENROLLMENT_TYPE_ID, APPOINTMENT_REMINDER_TYPE_ID, CONGRATULATE_GOAL_WEIGHT, CONGRATULATE_WELLNESS_JOURNEY, REMINDER_GOAL_WEIGHT
 from SendMessage import SendMessage
 from ConnectorUtils import ConnectorUtils
 
